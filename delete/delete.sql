@@ -1,0 +1,1 @@
+DELETE FROM `marks` WHERE `subject_id` BETWEEN 3 AND 5;

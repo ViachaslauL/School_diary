@@ -1,0 +1,1 @@
+SELECT * FROM `marks` WHERE `student_id` = 4 AND `mark` = 8 OR `student_id` = 2;
